@@ -42,5 +42,5 @@ Potential improvements:
 
 # license
 
-BSD 3-Clause License. See [LICENSE] file for details.
+BSD 3-Clause License. See [LICENSE](https://github.com/ssg/amele/blob/master/LICENSE) file for details.
 
